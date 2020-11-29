@@ -5,10 +5,19 @@ Simple C# Games for educational purpose<br>
 
 ## Screenshots
 
+### Batman Gravity
 ![Alt text](/Screenshots/batman.jpg?raw=true "Batman")
+
+### Top Down Car Racing Game
 ![Alt text](/Screenshots/car_racing.JPG?raw=true "Car Racing")
+
+### Helicopter
 ![Alt text](/Screenshots/helicopter.JPG?raw=true "Helicopter")
+
+### Scary Maze Game
 ![Alt text](/Screenshots/scary-maze.JPG?raw=true "Scary Maze")
+
+### Whack a Mole
 ![Alt text](/Screenshots/whack_a_mole.JPG?raw=true "Whack a mole")
 
 ## Tested on ##
