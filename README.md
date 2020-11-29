@@ -5,11 +5,11 @@ Simple C# Games for educational purpose<br>
 
 ## Screenshots
 
-![Alt text](/Screenshot/batman.jpg?raw=true "Batman")
-![Alt text](/Screenshot/car_racing.jpg?raw=true "Car Racing")
-![Alt text](/Screenshot/helicopter.jpg?raw=true "Helicopter")
-![Alt text](/Screenshot/scary-maze.jpg?raw=true "Scary Maze")
-![Alt text](/Screenshot/whack_a_mole.jpg?raw=true "Whack a mole")
+![Alt text](/Screenshots/batman.jpg?raw=true "Batman")
+![Alt text](/Screenshots/car_racing.jpg?raw=true "Car Racing")
+![Alt text](/Screenshots/helicopter.jpg?raw=true "Helicopter")
+![Alt text](/Screenshots/scary-maze.jpg?raw=true "Scary Maze")
+![Alt text](/Screenshots/whack_a_mole.jpg?raw=true "Whack a mole")
 
 ## Tested on ##
 
