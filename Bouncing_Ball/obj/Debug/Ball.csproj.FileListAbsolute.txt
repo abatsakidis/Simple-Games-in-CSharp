@@ -1,0 +1,6 @@
+C:\Users\mantis\Desktop\C# Projects\BouncingBall-SRC\bin\Debug\Ball.exe
+C:\Users\mantis\Desktop\C# Projects\BouncingBall-SRC\bin\Debug\Ball.pdb
+C:\Users\mantis\Desktop\C# Projects\BouncingBall-SRC\obj\Debug\Ball.csprojAssemblyReference.cache
+C:\Users\mantis\Desktop\C# Projects\BouncingBall-SRC\obj\Debug\Ball.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Desktop\C# Projects\BouncingBall-SRC\obj\Debug\Ball.exe
+C:\Users\mantis\Desktop\C# Projects\BouncingBall-SRC\obj\Debug\Ball.pdb

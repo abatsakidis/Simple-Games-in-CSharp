@@ -1,0 +1,20 @@
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Whack a Mole\Whack a Mole\bin\Debug\Whack a Mole.exe.config
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Whack a Mole\Whack a Mole\bin\Debug\Whack a Mole.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Whack a Mole\Whack a Mole\bin\Debug\Whack a Mole.pdb
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack a Mole.csprojAssemblyReference.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack_a_Mole.Form1.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack_a_Mole.Properties.Resources.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack a Mole.csproj.GenerateResource.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack a Mole.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack a Mole.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack a Mole.pdb
+E:\1\Projects\Whack a Mole\Whack a Mole\bin\Debug\Whack a Mole.exe.config
+E:\1\Projects\Whack a Mole\Whack a Mole\bin\Debug\Whack a Mole.exe
+E:\1\Projects\Whack a Mole\Whack a Mole\bin\Debug\Whack a Mole.pdb
+E:\1\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack a Mole.csprojAssemblyReference.cache
+E:\1\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack_a_Mole.Form1.resources
+E:\1\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack_a_Mole.Properties.Resources.resources
+E:\1\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack a Mole.csproj.GenerateResource.cache
+E:\1\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack a Mole.csproj.CoreCompileInputs.cache
+E:\1\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack a Mole.exe
+E:\1\Projects\Whack a Mole\Whack a Mole\obj\Debug\Whack a Mole.pdb

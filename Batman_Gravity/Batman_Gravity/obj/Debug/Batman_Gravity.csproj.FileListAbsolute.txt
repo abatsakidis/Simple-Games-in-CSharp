@@ -1,0 +1,20 @@
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.csprojAssemblyReference.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.Form1.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.Properties.Resources.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.csproj.GenerateResource.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Batman_Gravity\Batman_Gravity\bin\Debug\Batman_Gravity.exe.config
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Batman_Gravity\Batman_Gravity\bin\Debug\Batman_Gravity.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Batman_Gravity\Batman_Gravity\bin\Debug\Batman_Gravity.pdb
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.pdb
+E:\1\Projects\Batman_Gravity\Batman_Gravity\bin\Debug\Batman_Gravity.exe.config
+E:\1\Projects\Batman_Gravity\Batman_Gravity\bin\Debug\Batman_Gravity.exe
+E:\1\Projects\Batman_Gravity\Batman_Gravity\bin\Debug\Batman_Gravity.pdb
+E:\1\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.csprojAssemblyReference.cache
+E:\1\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.Form1.resources
+E:\1\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.Properties.Resources.resources
+E:\1\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.csproj.GenerateResource.cache
+E:\1\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.csproj.CoreCompileInputs.cache
+E:\1\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.exe
+E:\1\Projects\Batman_Gravity\Batman_Gravity\obj\Debug\Batman_Gravity.pdb

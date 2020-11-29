@@ -1,0 +1,20 @@
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\helicopter\helicopter\obj\Debug\helicopter.csprojResolveAssemblyReference.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\helicopter\helicopter\obj\Debug\helicopter.Form1.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\helicopter\helicopter\obj\Debug\helicopter.Properties.Resources.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\helicopter\helicopter\obj\Debug\helicopter.csproj.GenerateResource.Cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\helicopter\helicopter\obj\Debug\helicopter.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\helicopter\helicopter\bin\Debug\helicopter.exe.config
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\helicopter\helicopter\bin\Debug\helicopter.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\helicopter\helicopter\bin\Debug\helicopter.pdb
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\helicopter\helicopter\obj\Debug\helicopter.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\helicopter\helicopter\obj\Debug\helicopter.pdb
+E:\1\Projects\helicopter\helicopter\bin\Debug\helicopter.exe.config
+E:\1\Projects\helicopter\helicopter\bin\Debug\helicopter.exe
+E:\1\Projects\helicopter\helicopter\bin\Debug\helicopter.pdb
+E:\1\Projects\helicopter\helicopter\obj\Debug\helicopter.csprojAssemblyReference.cache
+E:\1\Projects\helicopter\helicopter\obj\Debug\helicopter.Form1.resources
+E:\1\Projects\helicopter\helicopter\obj\Debug\helicopter.Properties.Resources.resources
+E:\1\Projects\helicopter\helicopter\obj\Debug\helicopter.csproj.GenerateResource.cache
+E:\1\Projects\helicopter\helicopter\obj\Debug\helicopter.csproj.CoreCompileInputs.cache
+E:\1\Projects\helicopter\helicopter\obj\Debug\helicopter.exe
+E:\1\Projects\helicopter\helicopter\obj\Debug\helicopter.pdb

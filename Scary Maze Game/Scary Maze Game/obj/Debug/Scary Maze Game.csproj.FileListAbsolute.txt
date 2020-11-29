@@ -1,0 +1,22 @@
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Scary Maze Game\Scary Maze Game\bin\Debug\Scary Maze Game.exe.config
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Scary Maze Game\Scary Maze Game\bin\Debug\Scary Maze Game.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Scary Maze Game\Scary Maze Game\bin\Debug\Scary Maze Game.pdb
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary Maze Game.csprojAssemblyReference.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary_Maze_Game.Form1.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary_Maze_Game.Properties.Resources.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary_Maze_Game.Scare.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary Maze Game.csproj.GenerateResource.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary Maze Game.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary Maze Game.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary Maze Game.pdb
+E:\1\Projects\Scary Maze Game\Scary Maze Game\bin\Debug\Scary Maze Game.exe.config
+E:\1\Projects\Scary Maze Game\Scary Maze Game\bin\Debug\Scary Maze Game.exe
+E:\1\Projects\Scary Maze Game\Scary Maze Game\bin\Debug\Scary Maze Game.pdb
+E:\1\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary Maze Game.csprojAssemblyReference.cache
+E:\1\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary_Maze_Game.Form1.resources
+E:\1\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary_Maze_Game.Properties.Resources.resources
+E:\1\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary_Maze_Game.Scare.resources
+E:\1\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary Maze Game.csproj.GenerateResource.cache
+E:\1\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary Maze Game.csproj.CoreCompileInputs.cache
+E:\1\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary Maze Game.exe
+E:\1\Projects\Scary Maze Game\Scary Maze Game\obj\Debug\Scary Maze Game.pdb
